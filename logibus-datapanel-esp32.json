@@ -1,0 +1,15 @@
+{
+  "name": "LOGIBUS Datapanel ESP32",
+  "version": "0.100",
+  "home_assistant_domain": "slim_player",
+  "builds": [
+    {
+      "chipFamily": "ESP32",
+      "parts": [
+        { "path": "firmware/bootloader.bin", "offset": 4096 },
+        { "path": "firmware/partition-table.bin", "offset": 32768 },
+        { "path": "firmware/Application.bin", "offset": 65536 }
+      ]
+    }
+  ]
+}
