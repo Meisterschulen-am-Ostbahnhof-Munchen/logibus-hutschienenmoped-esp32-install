@@ -1,5 +1,5 @@
 {
-  "name": "LOGIBUS Hutschienenmoped ESP32 Fix IP",
+  "name": "LOGIBUS Hutschienenmoped ESP32 Fix IP esp-idf-v4.2.2",
   "version": "0.100",
   "home_assistant_domain": "slim_player",
   "builds": [
