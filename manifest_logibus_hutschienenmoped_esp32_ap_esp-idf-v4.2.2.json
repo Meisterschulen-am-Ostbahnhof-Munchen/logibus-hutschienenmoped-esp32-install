@@ -1,5 +1,5 @@
 {
-  "name": "LOGIBUS Datapanel ESP32",
+  "name": "LOGIBUS Hutschienenmoped ESP32 SoftAP",
   "version": "0.100",
   "home_assistant_domain": "slim_player",
   "builds": [
