@@ -6,9 +6,9 @@
     {
       "chipFamily": "ESP32",
       "parts": [
-        { "path": "firmware_logibus_hutschienenmoped_esp32_ap/bootloader.bin", "offset": 4096 },
-        { "path": "firmware_logibus_hutschienenmoped_esp32_ap/partition-table.bin", "offset": 32768 },
-        { "path": "firmware_logibus_hutschienenmoped_esp32_ap/Application.bin", "offset": 65536 }
+        { "path": "firmware_logibus_hutschienenmoped_esp32_ap_esp-idf-v4.2.2/bootloader.bin", "offset": 4096 },
+        { "path": "firmware_logibus_hutschienenmoped_esp32_ap_esp-idf-v4.2.2/partition-table.bin", "offset": 32768 },
+        { "path": "firmware_logibus_hutschienenmoped_esp32_ap_esp-idf-v4.2.2/Application.bin", "offset": 65536 }
       ]
     }
   ]
