@@ -1,4 +1,5 @@
 # logibus-hutschienenmoped-esp32-install
+logiBUS®
 
 https://Meisterschulen-am-Ostbahnhof-Munchen.github.io/logibus-hutschienenmoped-esp32-install/
 
