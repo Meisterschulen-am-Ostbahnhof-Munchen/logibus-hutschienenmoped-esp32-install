@@ -1,0 +1,15 @@
+{
+  "name": "logiBUS® Hutschienenmoped ESP32 SoftAP esp-idf-v5.0",
+  "version": "0.100",
+  "home_assistant_domain": "slim_player",
+  "builds": [
+    {
+      "chipFamily": "ESP32",
+      "parts": [
+        { "path": "firmware_logibus_hutschienenmoped_esp32_ap_esp-idf-v5.0/bootloader.bin", "offset": 4096 },
+        { "path": "firmware_logibus_hutschienenmoped_esp32_ap_esp-idf-v5.0/partition-table.bin", "offset": 32768 },
+        { "path": "firmware_logibus_hutschienenmoped_esp32_ap_esp-idf-v5.0/Application.bin", "offset": 65536 }
+      ]
+    }
+  ]
+}
